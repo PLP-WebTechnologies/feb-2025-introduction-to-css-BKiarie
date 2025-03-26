@@ -1,0 +1,54 @@
+
+body {
+    background-color: #9bd0ef;
+    color: #333;
+    margin: 0 auto;
+    width: 60%;
+    padding: 20px;
+    font-family: 'Arial', sans-serif; 
+}
+
+
+header {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+    color: rgb(218, 100, 31);
+}
+
+
+.welcome {
+    color: blue;
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+
+#country-image {
+    border: 2px solid rgb(189, 36, 36);
+    border-radius: 15px;
+    max-width: 100%; 
+    height: auto; 
+    margin: 15px 0; 
+}
+
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    width: 35%;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    
+    display: block;
+}
+
+.button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
